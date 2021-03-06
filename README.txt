@@ -16,7 +16,7 @@ If the user does not have a certain module installed or implemented, a Module Ma
 should be automatically set up to aid with that process. The Module Manager will be
 able to detect which modules need to be set up and a separate window will show
 regarding this.
-Modules necessary: pygaem, cv2, sys, time, random, argparse, imutils, collections, os, math
+Modules necessary: pygame, cv2, sys, time, random, argparse, imutils, collections, os, math
 
 
 To run this program, simultaneously press your 'Ctrl' and 'B' keys. This should
